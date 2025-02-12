@@ -8,3 +8,6 @@ The implementation code of the model is located in the `\model` directory. `modu
 
 ## Execute
 `\utils` consists of `config.py`, which handles experiment configurations; `dataset.py`, which processes the `.pkl` files into the input format; `trainer.py`, which describes the training (evaluation) process; and `utils.py`, which contains utility functions needed for experiments.
+For training a model, you can run:
+```
+python main.py
