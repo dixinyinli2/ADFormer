@@ -7,4 +7,4 @@
 The implementation code of the model is located in the `\model` directory. `module.py` contains components needed by various models, while `ADFormer.py` is the main code of the model.
 
 ## Execute
-`\utils` consists of `config.py`, the configuration of experiments, `dataset.py`, which processes the '.pkl' files into the input format, `trainer.py` describes the training(evalution) process and `utils.py` contains the utils needed by experments.
+`\utils` consists of `config.py`, which handles experiment configurations; `dataset.py`, which processes the `.pkl` files into the input format; `trainer.py`, which describes the training (evaluation) process; and `utils.py`, which contains utility functions needed for experiments.
