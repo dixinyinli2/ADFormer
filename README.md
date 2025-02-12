@@ -11,3 +11,6 @@ The implementation code of the model is located in the `\model` directory. `modu
 For training a model, you can run:
 ```
 python main.py
+
+The trained model will be saved in the `\log` folder.
+
